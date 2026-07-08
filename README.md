@@ -1,4 +1,5 @@
-# AI-Multi-Agent-System-
+# AI-Multi-Agent-System-v2
+
 
 -What you'll build
 
@@ -49,3 +50,7 @@ This agent receives:
 User question
 Research results
 Calculator results and produces the final answer.
+
+
+
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/6acffe58-4910-4601-a112-4a4e233a7e57" />
